@@ -1,14 +1,18 @@
-# MVPHuman Dataset 
+# MVP-Human Dataset for 3D Clothed Human Avatar Reconstruction from Multiple Frames
+   
+[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/pdf/2204.11184v2.pdf)
 
-![](teaser/teaser.png)
+This repository contains the official PyTorch implementation of:
+
+**MVP-Human Dataset for 3D Clothed Human Avatar Reconstruction from Multiple Frames**   
+
+
 
 ## Installation
-1. Install the environment and the SMPL model follow [SCANimate](https://arxiv.org/pdf/2104.03313).
-2. Install [pypoisson](https://github.com/mmolero/pypoisson). 
-## Data Processing   
+Install the environment following [SCANimate](ARWild/README.md). 
+## Scan Canonicalization 
 
-Note that SCANimate requires accurate fitted SMPL to generate natural canonical mesh. Thus, we recommend you selects the scans with simple poses such as Action01 (A-pose) or Action03 (T-pose)
-to get the canonical mesh.   
+![](assets/teaser.png) 
 
 **0. Download extra data from this [link](https://drive.google.com/file/d/1zoCojdsrrAHRPif2J2b79jNoKphKYgWw/view?usp=sharing).**
 
@@ -27,13 +31,11 @@ $ python -m apps.run_scanimate --in_dir ./data_example --out_dir ./data_example
 ​		This script will create generate results in folder `out_dir/subject_id/cano`.
  
   
-## Render Dancing Video (coming soon) 
 
-## Download Instructions
-
-## Acknowledgments
+## Data Download 
+Applicants are request to complete the [form](https://docs.google.com/forms/d/e/1FAIpQLSfN2ISu7B1CaO2QvLI1UMZ4YQL-RWZ01jbYtgSSFYc04VSiow/viewform) and submit it to acquire the data link. We also offer the convenience of a QR code that links directly to the form. 
+![](assets/QR_code.png) 
  
- Thanks to the authors of SCANimate. 
 
 
  

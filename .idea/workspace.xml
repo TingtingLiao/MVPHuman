@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8591c0ee-896f-4f01-bab0-a0b6b0a3149b" name="Default Changelist" comment="update" />
+    <list default="true" id="8591c0ee-896f-4f01-bab0-a0b6b0a3149b" name="Default Changelist" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +50,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="a3c0878c-b5e7-4fb4-8439-a077e17f4d1f" />
   <component name="MarkdownSettingsMigration">
@@ -124,6 +127,7 @@
       <workItem from="1685894290444" duration="2221000" />
       <workItem from="1685897224814" duration="1294000" />
       <workItem from="1685898659459" duration="1749000" />
+      <workItem from="1685902096685" duration="544000" />
     </task>
     <task id="LOCAL-00001" summary="update README.md">
       <created>1649760072428</created>
