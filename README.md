@@ -6,13 +6,13 @@ This repository contains the official PyTorch implementation of:
 
 **MVP-Human Dataset for 3D Clothed Human Avatar Reconstruction from Multiple Frames**   
 
-
+![](assets/teaser.jpg) 
 
 ## Installation
-Install the environment following [here](ARWild/README.md). 
+Please follow this [instruction](ARWild/README.md). 
 ## Scan Canonicalization 
 
-![](assets/teaser.png) 
+![](assets/canonicalization.png) 
 
 **0. Download extra data from this [link](https://drive.google.com/file/d/1zoCojdsrrAHRPif2J2b79jNoKphKYgWw/view?usp=sharing).**
 
@@ -32,7 +32,7 @@ $ python -m apps.run_scanimate --in_dir ./data_example --out_dir ./data_example
  
   
 
-## Data Download 
+## Download Dataset
 Applicants are request to complete the [form](https://docs.google.com/forms/d/e/1FAIpQLSfN2ISu7B1CaO2QvLI1UMZ4YQL-RWZ01jbYtgSSFYc04VSiow/viewform) and submit it to acquire the data link. We also offer the convenience of a QR code that links directly to the form. 
 
 ![](assets/QR_code.png) 
