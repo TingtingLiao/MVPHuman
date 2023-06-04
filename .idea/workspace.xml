@@ -22,10 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8591c0ee-896f-4f01-bab0-a0b6b0a3149b" name="Default Changelist" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="8591c0ee-896f-4f01-bab0-a0b6b0a3149b" name="Default Changelist" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +124,7 @@
       <workItem from="1685894290444" duration="2221000" />
       <workItem from="1685897224814" duration="1294000" />
       <workItem from="1685898659459" duration="1749000" />
-      <workItem from="1685902096685" duration="544000" />
+      <workItem from="1685902096685" duration="624000" />
     </task>
     <task id="LOCAL-00001" summary="update README.md">
       <created>1649760072428</created>

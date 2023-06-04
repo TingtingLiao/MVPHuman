@@ -9,7 +9,7 @@ This repository contains the official PyTorch implementation of:
 
 
 ## Installation
-Install the environment following [SCANimate](ARWild/README.md). 
+Install the environment following [here](ARWild/README.md). 
 ## Scan Canonicalization 
 
 ![](assets/teaser.png) 
@@ -34,6 +34,7 @@ $ python -m apps.run_scanimate --in_dir ./data_example --out_dir ./data_example
 
 ## Data Download 
 Applicants are request to complete the [form](https://docs.google.com/forms/d/e/1FAIpQLSfN2ISu7B1CaO2QvLI1UMZ4YQL-RWZ01jbYtgSSFYc04VSiow/viewform) and submit it to acquire the data link. We also offer the convenience of a QR code that links directly to the form. 
+
 ![](assets/QR_code.png) 
  
 
