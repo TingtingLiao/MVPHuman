@@ -36,6 +36,18 @@ $ python -m apps.run_scanimate --in_dir ./data_example --out_dir ./data_example
 Applicants are request to complete the [form](https://docs.google.com/forms/d/e/1FAIpQLSfN2ISu7B1CaO2QvLI1UMZ4YQL-RWZ01jbYtgSSFYc04VSiow/viewform) and submit it to acquire the data link. We also offer the convenience of a QR code that links directly to the form. 
 
 ![](assets/QR_code.png) 
+
+## Citation
+
+```latex
+@article{zhu2023mvp,
+  title={MVP-Human Dataset for 3D Clothed Human Avatar Reconstruction from Multiple Frames},
+  author={Zhu, Xiangyu and Liao, Tingting and Zhang, Xiaomei and Lyu, Jiangjing and Chen, Zhiwen and Wang, Yunfeng and Guo, Kan and Cao, Qiong and Li, Stan Z and Lei, Zhen},
+  journal={IEEE Transactions on Biometrics, Behavior, and Identity Science},
+  year={2023},
+  publisher={IEEE}
+}
+```
  
 
 
