@@ -57,6 +57,7 @@ class TestDataset():
 
         self.normal_type = 'icon'
         self.NormalNet = get_normal_model(self.normal_type).to(self.device)
+        self.NormalNet.eval()
         self.image_to_tensor, self.mask_to_tensor, self.image_to_pymaf_tensor = get_transformer(self.image_size)
 
         # self.generate_pifuhd_normal()
