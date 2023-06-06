@@ -26,7 +26,7 @@
       <change beforePath="$PROJECT_DIR$/../ARWild/apps/infer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ARWild/apps/infer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ARWild/lib/data/TestDataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ARWild/lib/data/TestDataset.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ARWild/lib/data/TestDataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/ARWild/lib/data/TestDataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARWild/apps/infer.py" beforeDir="false" afterPath="$PROJECT_DIR$/ARWild/apps/infer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +133,7 @@
       <workItem from="1685903124855" duration="1166000" />
       <workItem from="1685949990625" duration="600000" />
       <workItem from="1686011668570" duration="515000" />
-      <workItem from="1686024371941" duration="123000" />
+      <workItem from="1686024371941" duration="750000" />
     </task>
     <task id="LOCAL-00001" summary="update README.md">
       <created>1649760072428</created>

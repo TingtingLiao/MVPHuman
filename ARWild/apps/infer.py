@@ -30,6 +30,7 @@ if __name__ == '__main__':
 
     for i in range(len(dataset)):
         data = dataset.get_item(i)
+        torch.cuda.empty_cache()
 
         save_obj_path = os.path.join(save_dir, data['im_name'] + '.obj')
 
